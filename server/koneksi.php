@@ -1,8 +1,8 @@
 <?php
 $host = "127.0.0.1";
 $username = "root";
-$password = "#Dij4min4m4n";
-$db = "inConnect";
+$password = "#####";
+$db = "####";
 date_default_timezone_set("Asia/Jakarta");
 $tanggal = date("Y-m-d");
 date_default_timezone_set("Asia/Jakarta");
